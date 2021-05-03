@@ -3,7 +3,7 @@
 ## Overview
 This mod adds the Icewind Dale voices into the Infinity Engine (Baldur's Gate/Baldur's Gate II/Icewind Dale) Enhanced Edition games version 2.6 or above.
 
-###Note for IWDEE owners
+### Note for IWDEE owners
 As of IWDEE 2.6, the game only uses 25 lines out of the original 40 the classic IWD shipped with. This mod adds prefixed duplicate voices into the selection menu which does use all 40 original lines in their original roles.
 
 ## Version history
