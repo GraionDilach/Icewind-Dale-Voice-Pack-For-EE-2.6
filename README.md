@@ -13,6 +13,7 @@ Adds all 30 sets from IWD1 Complete (including the 6 additional sets from Hearts
 
 ## Acknowledgments
 Thanks for CamDawg for [his documentation on EE 2.6+ voicesets](https://github.com/Gibberlings3/EE_soundset_tool).
+
 Thanks for Smeagolheart for the [Awesome Soundsets documentation](https://forums.beamdog.com/discussion/38319/mods-awesome-soundsets-mods-master-thread-custom-soundsets-for-bgee-bg2ee-and-iwdee/p1), inspiring to create this mod.
 
 ### Tools Used in Creation
