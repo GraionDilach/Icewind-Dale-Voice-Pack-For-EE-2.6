@@ -11,6 +11,16 @@ As of IWDEE 2.6, the game only uses 25 lines out of the original 40 the classic 
 Initial release.
 Adds all 30 sets from IWD1 Complete (including the 6 additional sets from Hearts of Winter).
 
+### 1.0.1
+Unreleased.
+
+### 1.0.2
+Project Infinity label support.
+
+### 1.1.0
+Prevent installing on unmerged SoD.
+Move backup and inlined folder to weidu_external.
+
 ## Acknowledgments
 Thanks for CamDawg for [his documentation on EE 2.6+ voicesets](https://github.com/Gibberlings3/EE_soundset_tool).
 
